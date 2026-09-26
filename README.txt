@@ -6,7 +6,7 @@ Rules
 - Each round lasts 90 seconds.
 - Form five-letter words across any row or down any column.
 - A valid word scores once per round, including when it appears momentarily during a spin.
-- Swipe slowly to drag a row/column; release quickly to spin it. Flick speed determines starting speed and spin distance.
+- Swipe slowly to drag a row/column; release quickly to spin it. Flick strength determines starting speed. Every flick travels at most one full five-position circuit, then stops; tap the moving line to stop earlier.
 - Only one row/column moves at a time. Tap the spinning line to stop it.
 - Switch among boards A, B, and C between rounds. A given board starts identically for every player.
 
